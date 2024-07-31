@@ -1,0 +1,22 @@
+# .gitignore file
+# Created on: 2024-07-31
+# Created by: Janguk.kim
+
+##### ignore the following files and folders on git tracking #####
+
+# Executive file
+*.exe
+
+# Autosave files
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# Compiled MEX files
+*.mex*
+
+# Cache files
+*.slxc
+
