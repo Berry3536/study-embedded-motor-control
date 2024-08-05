@@ -1,11 +1,55 @@
-# .gitignore file
-# Created on: 2024-07-31
-# Created by: Janguk.kim
+# Prerequisites
+*.d
 
-##### ignore the following files and folders on git tracking #####
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-# Executive file
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
 *.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
 
 # Autosave files
 *.asv
@@ -20,3 +64,5 @@
 # Cache files
 *.slxc
 
+# vscode
+.vscode/

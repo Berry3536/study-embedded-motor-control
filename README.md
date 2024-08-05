@@ -1,26 +1,26 @@
-# study-embedded-motor-control
-This repository contains MATLAB, Simulink, and C files for studying motor control theory
+# wheeled-bipedal-robot
+Repository for the development of a wheeled bipedal robot 
 
-# This study contains following items:
-1. Embedded system
-2. Control engineering theory
-3. Motor control
+## Project description
+...
 
-# Study contents
-1. PID control
-2. State feedback
+## Development period
+...
 
-# etc
-## Hardware for embedded system
-DC motor
-Motor driver
-IMU sensor
-Single board computer
+## Tech Stacks
+Language: C <br>
+Algorithm: MATLAB Simulink <br>
+IDE: Visual Studio Code 
 
-## Stacks
-Environment
-Development
-Communication
+## Hardware components
+Single board computer: ... <br>
+DC motor: ... <br>
+Motor driver: ... <br>
+Battery: ... <br>
+IMU sensor: ...
+
+## Controller design
+LQR controller
 
 ## S/W Architecture
 Directory structure
